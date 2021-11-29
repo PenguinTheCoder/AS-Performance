@@ -1,0 +1,25 @@
+h1 {
+    color: white;
+}
+
+iframe {
+    height:200px; 
+    width:300px;
+    border-color: grey;
+    border-left-color: rgb(255, 238, 0);
+    border-top-color: rgb(255, 115, 0);
+    border-right-color: red;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.inline iframe {
+    cursor: pointer;
+}
+
+p {
+    color: white;
+}
+
+
+

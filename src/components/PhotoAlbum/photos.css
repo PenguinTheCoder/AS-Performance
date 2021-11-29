@@ -1,0 +1,17 @@
+img {
+    height: 300px;
+    width: auto;
+    margin: 20px;
+    border-color: red;
+    border-radius: 15px;
+}
+
+.hover :hover {
+    cursor: pointer;
+    height: 50%;
+    width: 50%;
+}
+
+.SelectBox_control {
+    height: 50px;
+}

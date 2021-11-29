@@ -1,0 +1,34 @@
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    display: flex;
+}
+
+.tekst p {
+    float: left;
+    border-right: 2px solid grey;
+}
+
+.kontakt a {
+    float: right;
+    color: red;
+  
+} 
+
+p a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1px 20px;
+    text-decoration: none;
+  }
+
+p a:hover {
+    background-color: #111;
+   
+}
+
+
